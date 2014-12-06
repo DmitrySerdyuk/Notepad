@@ -82,14 +82,13 @@
 			<Prp name="language" type="S" value="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}"/>
 		</Node>
 		<Node name="files">
-			<Node name="..\[kma-tst-trainee]\notepad\notepad.mds.tcls"/>
+			<Node name="[kma-tst-trainee]\notepad.mds.tcls"/>
 			<Node name="events\events.tcax"/>
 			<Node name="keywordtests\keywordtests.tckdt"/>
 			<Node name="namemapping\namemapping.tcnm"/>
 			<Node name="notepad.mds"/>
 			<Node name="script\script.tcscript"/>
 			<Node name="script\unit1.sj"/>
-			<Node name="script\unit2.sj"/>
 			<Node name="stores\dbtables\dbtables.tcdb"/>
 			<Node name="stores\files.tcfiles"/>
 			<Node name="stores\objects.tcobjects"/>
@@ -1494,7 +1493,7 @@
 							<Prp name="name" type="S" value="ProjectTestItem2"/>
 							<Prp name="stoponerror" type="I" value="0"/>
 							<Prp name="stoponexception" type="I" value="0"/>
-							<Prp name="test moniker" type="S" value="{CEE47C98-49E2-432D-80C1-E1F208A3A06F}Unit2"/>
+							<Prp name="test moniker" type="S" value="{F946A311-82C5-4DCC-8DB7-50D9FA536BCE}Unit2"/>
 							<Prp name="timeout" type="I" value="0"/>
 						</Node>
 					</Node>
@@ -1508,7 +1507,7 @@
 					<Prp name="name" type="S" value="ProjectTestItem1"/>
 					<Prp name="stoponerror" type="I" value="0"/>
 					<Prp name="stoponexception" type="I" value="0"/>
-					<Prp name="test moniker" type="S" value="{F946A311-82C5-4DCC-8DB7-50D9FA536BCE}Main"/>
+					<Prp name="test moniker" type="S" value="{F946A311-82C5-4DCC-8DB7-50D9FA536BCE}Unit1"/>
 					<Prp name="timeout" type="I" value="0"/>
 				</Node>
 			</Node>

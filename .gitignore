@@ -8,6 +8,8 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 Log/*
+[KMA-TST-TRAINEE]/Log/*
+
 # Windows Installer files
 *.cab
 *.msi
